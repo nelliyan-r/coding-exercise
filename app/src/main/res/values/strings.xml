@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coding Exercise</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_flickr">Search Flickr</string>
+    <string name="search_hint">search by userid</string>
+</resources>
